@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="4110431747">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<GameParameters>
+				<GameParameter Id="467147773" Name="BkGndSaturation" ObjectPath="\Game Parameters\Default Work Unit\BkGndSaturation"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="1343327286">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1886858601" Name="A3" ObjectPath="\Events\Music\Melody Notes\A3" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="780855785" Language="SFX">
+							<ShortName>A3.mid</ShortName>
+							<Path>SFX\A3_82538C21.wmid</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1886858606" Name="A4" ObjectPath="\Events\Music\Melody Notes\A4" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="982620226" Language="SFX">
+							<ShortName>A4.mid</ShortName>
+							<Path>SFX\A4_82538C21.wmid</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1853303296" Name="C4" ObjectPath="\Events\Music\Melody Notes\C4" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="1068339980" Language="SFX">
+							<ShortName>C4.mid</ShortName>
+							<Path>SFX\C4_82538C21.wmid</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1853303297" Name="C5" ObjectPath="\Events\Music\Melody Notes\C5" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="202538348" Language="SFX">
+							<ShortName>C5.mid</ShortName>
+							<Path>SFX\C5_82538C21.wmid</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3737052859" Name="Clap" ObjectPath="\Events\Music\Percussion\Clap" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="179193399" Language="SFX">
+							<ShortName>Perc - Clap 3.wav</ShortName>
+							<Path>SFX\Perc - Clap 3_D79FB2B7.wem</Path>
+						</File>
+						<File Id="193518813" Language="SFX">
+							<ShortName>Perc - Clap 1.wav</ShortName>
+							<Path>SFX\Perc - Clap 1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="467886773" Language="SFX">
+							<ShortName>Perc - Clap 4.wav</ShortName>
+							<Path>SFX\Perc - Clap 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="484166293" Language="SFX">
+							<ShortName>Perc - Clap 5.wav</ShortName>
+							<Path>SFX\Perc - Clap 5_D79FB2B7.wem</Path>
+						</File>
+						<File Id="765454084" Language="SFX">
+							<ShortName>Perc - Clap 2.wav</ShortName>
+							<Path>SFX\Perc - Clap 2_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="518504891" Name="ClapStop" ObjectPath="\Events\Music\Percussion\ClapStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="772593125" Name="Cowbell" ObjectPath="\Events\Music\Percussion\Cowbell" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="35983862" Language="SFX">
+							<ShortName>Perc - Cowbell 1.wav</ShortName>
+							<Path>SFX\Perc - Cowbell 1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="251653243" Language="SFX">
+							<ShortName>Perc - Cowbell 4.wav</ShortName>
+							<Path>SFX\Perc - Cowbell 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="495523749" Language="SFX">
+							<ShortName>Perc - Cowbell 2.wav</ShortName>
+							<Path>SFX\Perc - Cowbell 2_D79FB2B7.wem</Path>
+						</File>
+						<File Id="863801964" Language="SFX">
+							<ShortName>Perc - Cowbell 5.wav</ShortName>
+							<Path>SFX\Perc - Cowbell 5_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1054718200" Language="SFX">
+							<ShortName>Perc - Cowbell 3.wav</ShortName>
+							<Path>SFX\Perc - Cowbell 3_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4284949629" Name="CowbellStop" ObjectPath="\Events\Music\Percussion\CowbellStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1836525717" Name="D4" ObjectPath="\Events\Music\Melody Notes\D4" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="205155729" Language="SFX">
+							<ShortName>D4.mid</ShortName>
+							<Path>SFX\D4_82538C21.wmid</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1836525716" Name="D5" ObjectPath="\Events\Music\Melody Notes\D5" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="699827050" Language="SFX">
+							<ShortName>D5.mid</ShortName>
+							<Path>SFX\D5_82538C21.wmid</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1802970447" Name="F4" ObjectPath="\Events\Music\Melody Notes\F4" DurationType="OneShot" DurationMin="2.929625" DurationMax="2.929625">
+					<IncludedMemoryFiles>
+						<File Id="509262492" Language="SFX">
+							<ShortName>F4.mid</ShortName>
+							<Path>SFX\F4_82538C21.wmid</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1786192860" Name="G4" ObjectPath="\Events\Music\Melody Notes\G4" DurationType="OneShot" DurationMin="2.913539" DurationMax="2.913539">
+					<IncludedMemoryFiles>
+						<File Id="59480120" Language="SFX">
+							<ShortName>G4.mid</ShortName>
+							<Path>SFX\G4_82538C21.wmid</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1413521402" Name="Hi_Hat" ObjectPath="\Events\Music\Percussion\Hi_Hat" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="17423070" Language="SFX">
+							<ShortName>Perc - Hi Hat 3.wav</ShortName>
+							<Path>SFX\Perc - Hi Hat 3_D79FB2B7.wem</Path>
+						</File>
+						<File Id="163002421" Language="SFX">
+							<ShortName>Perc - Hi Hat 1.wav</ShortName>
+							<Path>SFX\Perc - Hi Hat 1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="802114002" Language="SFX">
+							<ShortName>Perc - Hi Hat 4.wav</ShortName>
+							<Path>SFX\Perc - Hi Hat 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="897229518" Language="SFX">
+							<ShortName>Perc - Hi Hat 5.wav</ShortName>
+							<Path>SFX\Perc - Hi Hat 5_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1047205904" Language="SFX">
+							<ShortName>Perc - Hi Hat 2.wav</ShortName>
+							<Path>SFX\Perc - Hi Hat 2_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1232542626" Name="Hi_HatStop" ObjectPath="\Events\Music\Percussion\Hi_HatStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3594704544" Name="High_Tom" ObjectPath="\Events\Music\Percussion\High_Tom" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="165517860" Language="SFX">
+							<ShortName>Perc - High Tom 1.wav</ShortName>
+							<Path>SFX\Perc - High Tom 1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="181616521" Language="SFX">
+							<ShortName>Perc - High Tom 2.wav</ShortName>
+							<Path>SFX\Perc - High Tom 2_D79FB2B7.wem</Path>
+						</File>
+						<File Id="312520748" Language="SFX">
+							<ShortName>Perc - High Tom 5.wav</ShortName>
+							<Path>SFX\Perc - High Tom 5_D79FB2B7.wem</Path>
+						</File>
+						<File Id="377926757" Language="SFX">
+							<ShortName>Perc - High Tom 4.wav</ShortName>
+							<Path>SFX\Perc - High Tom 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="854644086" Language="SFX">
+							<ShortName>Perc - High Tom 3.wav</ShortName>
+							<Path>SFX\Perc - High Tom 3_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2107740072" Name="High_TomStop" ObjectPath="\Events\Music\Percussion\High_TomStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2181839183" Name="Kick" ObjectPath="\Events\Music\Percussion\Kick" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="109544362" Language="SFX">
+							<ShortName>Perc -  Kick 5.wav</ShortName>
+							<Path>SFX\Perc -  Kick 5_D79FB2B7.wem</Path>
+						</File>
+						<File Id="311793028" Language="SFX">
+							<ShortName>Perc -  Kick 2.wav</ShortName>
+							<Path>SFX\Perc -  Kick 2_D79FB2B7.wem</Path>
+						</File>
+						<File Id="495937307" Language="SFX">
+							<ShortName>Perc -  Kick 3.wav</ShortName>
+							<Path>SFX\Perc -  Kick 3_D79FB2B7.wem</Path>
+						</File>
+						<File Id="518835948" Language="SFX">
+							<ShortName>Perc -  Kick 4.wav</ShortName>
+							<Path>SFX\Perc -  Kick 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="638467415" Language="SFX">
+							<ShortName>Perc - Kick 1.wav</ShortName>
+							<Path>SFX\Perc - Kick 1_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1952917439" Name="KickStop" ObjectPath="\Events\Music\Percussion\KickStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2988693636" Name="Low_Tom" ObjectPath="\Events\Music\Percussion\Low_Tom" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="335227173" Language="SFX">
+							<ShortName>Perc - Low Tom 4.wav</ShortName>
+							<Path>SFX\Perc - Low Tom 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="431528250" Language="SFX">
+							<ShortName>Perc - Low Tom 3.wav</ShortName>
+							<Path>SFX\Perc - Low Tom 3_D79FB2B7.wem</Path>
+						</File>
+						<File Id="961614681" Language="SFX">
+							<ShortName>Perc - Low Tom 2.wav</ShortName>
+							<Path>SFX\Perc - Low Tom 2_D79FB2B7.wem</Path>
+						</File>
+						<File Id="964655956" Language="SFX">
+							<ShortName>Perc - Low Tom 1.wav</ShortName>
+							<Path>SFX\Perc - Low Tom 1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1039759401" Language="SFX">
+							<ShortName>Perc - Low Tom 5.wav</ShortName>
+							<Path>SFX\Perc - Low Tom 5_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3440400492" Name="Low_TomStop" ObjectPath="\Events\Music\Percussion\Low_TomStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1675512312" Name="Mid_Tom" ObjectPath="\Events\Music\Percussion\Mid_Tom" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="165872222" Language="SFX">
+							<ShortName>Perc - Mid Tom 2.wav</ShortName>
+							<Path>SFX\Perc - Mid Tom 2_D79FB2B7.wem</Path>
+						</File>
+						<File Id="275707807" Language="SFX">
+							<ShortName>Perc - Mid Tom 4.wav</ShortName>
+							<Path>SFX\Perc - Mid Tom 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="345666258" Language="SFX">
+							<ShortName>Perc - Mid Tom 5.wav</ShortName>
+							<Path>SFX\Perc - Mid Tom 5_D79FB2B7.wem</Path>
+						</File>
+						<File Id="742909109" Language="SFX">
+							<ShortName>Perc - Mid Tom 3.wav</ShortName>
+							<Path>SFX\Perc - Mid Tom 3_D79FB2B7.wem</Path>
+						</File>
+						<File Id="837973755" Language="SFX">
+							<ShortName>Perc - Mid Tom 1.wav</ShortName>
+							<Path>SFX\Perc - Mid Tom 1_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3948058160" Name="Mid_TomStop" ObjectPath="\Events\Music\Percussion\Mid_TomStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1997157647" Name="PlayHighBkGnd" ObjectPath="\Events\Music\Backgrounds\PlayHighBkGnd" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="54413110" Language="SFX">
+							<ShortName>BkGnd - High BkGnd 3.wav</ShortName>
+							<Path>SFX\BkGnd - High BkGnd 3_D79FB2B7.wem</Path>
+						</File>
+						<File Id="332300729" Language="SFX">
+							<ShortName>BkGnd - High BkGnd 1.wav</ShortName>
+							<Path>SFX\BkGnd - High BkGnd 1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="536389463" Language="SFX">
+							<ShortName>BkGnd - High BkGnd 2.wav</ShortName>
+							<Path>SFX\BkGnd - High BkGnd 2_D79FB2B7.wem</Path>
+						</File>
+						<File Id="648813391" Language="SFX">
+							<ShortName>BkGnd - High BkGnd 4.wav</ShortName>
+							<Path>SFX\BkGnd - High BkGnd 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1008657816" Language="SFX">
+							<ShortName>BkGnd - High BkGnd 5.wav</ShortName>
+							<Path>SFX\BkGnd - High BkGnd 5_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="127615467" Name="PlayLowBkGnd" ObjectPath="\Events\Music\Backgrounds\PlayLowBkGnd" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="285900122" Language="SFX">
+							<ShortName>BkGnd - Low BkGnd 5.wav</ShortName>
+							<Path>SFX\BkGnd - Low BkGnd 5_D79FB2B7.wem</Path>
+						</File>
+						<File Id="379222637" Language="SFX">
+							<ShortName>BkGnd - Low BkGnd 4.wav</ShortName>
+							<Path>SFX\BkGnd - Low BkGnd 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="608759769" Language="SFX">
+							<ShortName>BkGnd - Low BkGnd 1.wav</ShortName>
+							<Path>SFX\BkGnd - Low BkGnd 1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="690878531" Language="SFX">
+							<ShortName>BkGnd - Low BkGnd 2.wav</ShortName>
+							<Path>SFX\BkGnd - Low BkGnd 2_D79FB2B7.wem</Path>
+						</File>
+						<File Id="870134129" Language="SFX">
+							<ShortName>BkGnd - Low BkGnd 3.wav</ShortName>
+							<Path>SFX\BkGnd - Low BkGnd 3_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3380058807" Name="PlayMidBkGnd" ObjectPath="\Events\Music\Backgrounds\PlayMidBkGnd" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="182842013" Language="SFX">
+							<ShortName>BkGnd - Mid BkGnd 2.wav</ShortName>
+							<Path>SFX\BkGnd - Mid BkGnd 2_D79FB2B7.wem</Path>
+						</File>
+						<File Id="209970234" Language="SFX">
+							<ShortName>BkGnd - Mid BkGnd 4.wav</ShortName>
+							<Path>SFX\BkGnd - Mid BkGnd 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="695436543" Language="SFX">
+							<ShortName>BkGnd - Mid BkGnd 5.wav</ShortName>
+							<Path>SFX\BkGnd - Mid BkGnd 5_D79FB2B7.wem</Path>
+						</File>
+						<File Id="763320801" Language="SFX">
+							<ShortName>BkGnd - Mid BkGnd 1.wav</ShortName>
+							<Path>SFX\BkGnd - Mid BkGnd 1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="924499218" Language="SFX">
+							<ShortName>BkGnd - Mid BkGnd 3.wav</ShortName>
+							<Path>SFX\BkGnd - Mid BkGnd 3_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3607016552" Name="Snare" ObjectPath="\Events\Music\Percussion\Snare" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="206424851" Language="SFX">
+							<ShortName>Perc - Snare 5.wav</ShortName>
+							<Path>SFX\Perc - Snare 5_D79FB2B7.wem</Path>
+						</File>
+						<File Id="668847312" Language="SFX">
+							<ShortName>Perc - Snare 4.wav</ShortName>
+							<Path>SFX\Perc - Snare 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="852132535" Language="SFX">
+							<ShortName>Perc - Snare 1.wav</ShortName>
+							<Path>SFX\Perc - Snare 1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="871338514" Language="SFX">
+							<ShortName>Perc - Snare 3.wav</ShortName>
+							<Path>SFX\Perc - Snare 3_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1010812043" Language="SFX">
+							<ShortName>Perc - Snare 2.wav</ShortName>
+							<Path>SFX\Perc - Snare 2_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="740187456" Name="SnareStop" ObjectPath="\Events\Music\Percussion\SnareStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4024814773" Name="StopHighBkGnd" ObjectPath="\Events\Music\Backgrounds\StopHighBkGnd" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2892674729" Name="StopLowBkGnd" ObjectPath="\Events\Music\Backgrounds\StopLowBkGnd" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3507497869" Name="StopMidBkGnd" ObjectPath="\Events\Music\Backgrounds\StopMidBkGnd" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3542992004" Name="StopNotes" ObjectPath="\Events\Music\Melody Notes\StopNotes" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3754215428" Name="StopTimer" ObjectPath="\Events\Default Work Unit\StopTimer" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3920142940" Name="Timer" ObjectPath="\Events\Default Work Unit\Timer" DurationType="Infinite"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="75764360" Name="Mid_BkGnd_Param" ObjectPath="\Game Parameters\Default Work Unit\Background\Mid_BkGnd_Param"/>
+				<GameParameter Id="78830142" Name="Playback_Speed" ObjectPath="\Game Parameters\Default Work Unit\Playback_Speed"/>
+				<GameParameter Id="151387591" Name="CharacterTorso" ObjectPath="\Game Parameters\Default Work Unit\CharacterTorso"/>
+				<GameParameter Id="342993035" Name="CharXPos" ObjectPath="\Game Parameters\Default Work Unit\CharXPos"/>
+				<GameParameter Id="609655080" Name="mtVolume" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Volume\mtVolume"/>
+				<GameParameter Id="620741071" Name="CBPosition" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Postion\CBPosition"/>
+				<GameParameter Id="762561156" Name="Low_BkGnd_Param" ObjectPath="\Game Parameters\Default Work Unit\Background\Low_BkGnd_Param"/>
+				<GameParameter Id="775711541" Name="LowReverb" ObjectPath="\Game Parameters\Default Work Unit\Background\Reverb\LowReverb"/>
+				<GameParameter Id="878619056" Name="snrSwitch" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Switches\snrSwitch"/>
+				<GameParameter Id="1003861849" Name="KDPosition" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Postion\KDPosition"/>
+				<GameParameter Id="1016379563" Name="ltVolume" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Volume\ltVolume"/>
+				<GameParameter Id="1047568026" Name="mtSwitch" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Switches\mtSwitch"/>
+				<GameParameter Id="1515143787" Name="hhVolume" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Volume\hhVolume"/>
+				<GameParameter Id="1538253904" Name="High_BkGnd_Param" ObjectPath="\Game Parameters\Default Work Unit\Background\High_BkGnd_Param"/>
+				<GameParameter Id="1733953454" Name="clpVolume" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Volume\clpVolume"/>
+				<GameParameter Id="1742003886" Name="cbSwitch" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Switches\cbSwitch"/>
+				<GameParameter Id="1965045917" Name="HighBright" ObjectPath="\Game Parameters\Default Work Unit\Background\brightness\HighBright"/>
+				<GameParameter Id="2033904029" Name="ltSwitch" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Switches\ltSwitch"/>
+				<GameParameter Id="2177393888" Name="HTPosition" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Postion\HTPosition"/>
+				<GameParameter Id="2302862684" Name="clpSwitch" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Switches\clpSwitch"/>
+				<GameParameter Id="2393634833" Name="MidReverb" ObjectPath="\Game Parameters\Default Work Unit\Background\Reverb\MidReverb"/>
+				<GameParameter Id="2610287790" Name="kdVolume" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Volume\kdVolume"/>
+				<GameParameter Id="2643497324" Name="cbVolume" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Volume\cbVolume"/>
+				<GameParameter Id="2788579711" Name="htVolume" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Volume\htVolume"/>
+				<GameParameter Id="2840259689" Name="HighReverb" ObjectPath="\Game Parameters\Default Work Unit\Background\Reverb\HighReverb"/>
+				<GameParameter Id="2871355627" Name="MTPosition" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Postion\MTPosition"/>
+				<GameParameter Id="3046941273" Name="CLPPosition" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Postion\CLPPosition"/>
+				<GameParameter Id="3117805916" Name="LTPosition" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Postion\LTPosition"/>
+				<GameParameter Id="3179197020" Name="kdSwitch" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Switches\kdSwitch"/>
+				<GameParameter Id="3233319005" Name="hhSwitch" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Switches\hhSwitch"/>
+				<GameParameter Id="3261019387" Name="CharacterArms" ObjectPath="\Game Parameters\Default Work Unit\CharacterArms"/>
+				<GameParameter Id="3364766416" Name="CharacterHead" ObjectPath="\Game Parameters\Default Work Unit\CharacterHead"/>
+				<GameParameter Id="3530131953" Name="LowBright" ObjectPath="\Game Parameters\Default Work Unit\Background\brightness\LowBright"/>
+				<GameParameter Id="3625313298" Name="snrVolume" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Volume\snrVolume"/>
+				<GameParameter Id="3791830556" Name="HHPosition" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Postion\HHPosition"/>
+				<GameParameter Id="3834167089" Name="htSwitch" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Switches\htSwitch"/>
+				<GameParameter Id="3854265795" Name="SNPosition" ObjectPath="\Game Parameters\Default Work Unit\Percussion\Postion\SNPosition"/>
+				<GameParameter Id="3868248170" Name="CharcterLegs" ObjectPath="\Game Parameters\Default Work Unit\CharcterLegs"/>
+				<GameParameter Id="3930644517" Name="MidBright" ObjectPath="\Game Parameters\Default Work Unit\Background\brightness\MidBright"/>
+			</GameParameters>
+			<SwitchGroups>
+				<SwitchGroup Id="509081035" Name="MidTom" ObjectPath="\Switches\Default Work Unit\MidTom">
+					<Switches>
+						<Switch Id="2407001760" Name="MidTom1" ObjectPath="\Switches\Default Work Unit\MidTom\MidTom1"/>
+						<Switch Id="2407001763" Name="MidTom2" ObjectPath="\Switches\Default Work Unit\MidTom\MidTom2"/>
+						<Switch Id="2407001762" Name="MidTom3" ObjectPath="\Switches\Default Work Unit\MidTom\MidTom3"/>
+						<Switch Id="2407001765" Name="MidTom4" ObjectPath="\Switches\Default Work Unit\MidTom\MidTom4"/>
+						<Switch Id="2407001764" Name="MidTom5" ObjectPath="\Switches\Default Work Unit\MidTom\MidTom5"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="772593125" Name="Cowbell" ObjectPath="\Switches\Default Work Unit\Cowbell">
+					<Switches>
+						<Switch Id="1664399182" Name="Cowbell1" ObjectPath="\Switches\Default Work Unit\Cowbell\Cowbell1"/>
+						<Switch Id="1664399181" Name="Cowbell2" ObjectPath="\Switches\Default Work Unit\Cowbell\Cowbell2"/>
+						<Switch Id="1664399180" Name="Cowbell3" ObjectPath="\Switches\Default Work Unit\Cowbell\Cowbell3"/>
+						<Switch Id="1664399179" Name="Cowbell4" ObjectPath="\Switches\Default Work Unit\Cowbell\Cowbell4"/>
+						<Switch Id="1664399178" Name="Cowbell5" ObjectPath="\Switches\Default Work Unit\Cowbell\Cowbell5"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="989654088" Name="BkGnd_High" ObjectPath="\Switches\Default Work Unit\BkGnd_High">
+					<Switches>
+						<Switch Id="606598505" Name="BkGnd_High1" ObjectPath="\Switches\Default Work Unit\BkGnd_High\BkGnd_High1"/>
+						<Switch Id="606598506" Name="BkGnd_High2" ObjectPath="\Switches\Default Work Unit\BkGnd_High\BkGnd_High2"/>
+						<Switch Id="606598507" Name="BkGnd_High3" ObjectPath="\Switches\Default Work Unit\BkGnd_High\BkGnd_High3"/>
+						<Switch Id="606598508" Name="BkGnd_High4" ObjectPath="\Switches\Default Work Unit\BkGnd_High\BkGnd_High4"/>
+						<Switch Id="606598509" Name="BkGnd_High5" ObjectPath="\Switches\Default Work Unit\BkGnd_High\BkGnd_High5"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="1196574546" Name="BkGnd_Low" ObjectPath="\Switches\Default Work Unit\BkGnd_Low">
+					<Switches>
+						<Switch Id="2558936615" Name="BkGnd_Low1" ObjectPath="\Switches\Default Work Unit\BkGnd_Low\BkGnd_Low1"/>
+						<Switch Id="2558936612" Name="BkGnd_Low2" ObjectPath="\Switches\Default Work Unit\BkGnd_Low\BkGnd_Low2"/>
+						<Switch Id="2558936613" Name="BkGnd_Low3" ObjectPath="\Switches\Default Work Unit\BkGnd_Low\BkGnd_Low3"/>
+						<Switch Id="2558936610" Name="BkGnd_Low4" ObjectPath="\Switches\Default Work Unit\BkGnd_Low\BkGnd_Low4"/>
+						<Switch Id="2558936611" Name="BkGnd_Low5" ObjectPath="\Switches\Default Work Unit\BkGnd_Low\BkGnd_Low5"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="1413521402" Name="Hi_Hat" ObjectPath="\Switches\Default Work Unit\Hi_Hat">
+					<Switches>
+						<Switch Id="3897102192" Name="HiHat1" ObjectPath="\Switches\Default Work Unit\Hi_Hat\HiHat1"/>
+						<Switch Id="3897102195" Name="HiHat2" ObjectPath="\Switches\Default Work Unit\Hi_Hat\HiHat2"/>
+						<Switch Id="3897102194" Name="HiHat3" ObjectPath="\Switches\Default Work Unit\Hi_Hat\HiHat3"/>
+						<Switch Id="3897102197" Name="HiHat4" ObjectPath="\Switches\Default Work Unit\Hi_Hat\HiHat4"/>
+						<Switch Id="3897102196" Name="HiHat5" ObjectPath="\Switches\Default Work Unit\Hi_Hat\HiHat5"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="1700050066" Name="BkGnd_Mid" ObjectPath="\Switches\Default Work Unit\BkGnd_Mid">
+					<Switches>
+						<Switch Id="374882791" Name="BkGnd_Mid1" ObjectPath="\Switches\Default Work Unit\BkGnd_Mid\BkGnd_Mid1"/>
+						<Switch Id="374882788" Name="BkGnd_Mid2" ObjectPath="\Switches\Default Work Unit\BkGnd_Mid\BkGnd_Mid2"/>
+						<Switch Id="374882789" Name="BkGnd_Mid3" ObjectPath="\Switches\Default Work Unit\BkGnd_Mid\BkGnd_Mid3"/>
+						<Switch Id="374882786" Name="BkGnd_Mid4" ObjectPath="\Switches\Default Work Unit\BkGnd_Mid\BkGnd_Mid4"/>
+						<Switch Id="374882787" Name="BkGnd_Mid5" ObjectPath="\Switches\Default Work Unit\BkGnd_Mid\BkGnd_Mid5"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="2181839183" Name="Kick" ObjectPath="\Switches\Default Work Unit\Kick">
+					<Switches>
+						<Switch Id="138295148" Name="Kick1" ObjectPath="\Switches\Default Work Unit\Kick\Kick1"/>
+						<Switch Id="138295151" Name="Kick2" ObjectPath="\Switches\Default Work Unit\Kick\Kick2"/>
+						<Switch Id="138295150" Name="Kick3" ObjectPath="\Switches\Default Work Unit\Kick\Kick3"/>
+						<Switch Id="138295145" Name="Kick4" ObjectPath="\Switches\Default Work Unit\Kick\Kick4"/>
+						<Switch Id="138295144" Name="Kick5" ObjectPath="\Switches\Default Work Unit\Kick\Kick5"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="3434438675" Name="HighTom" ObjectPath="\Switches\Default Work Unit\HighTom">
+					<Switches>
+						<Switch Id="1418083800" Name="HighTom1" ObjectPath="\Switches\Default Work Unit\HighTom\HighTom1"/>
+						<Switch Id="1418083803" Name="HighTom2" ObjectPath="\Switches\Default Work Unit\HighTom\HighTom2"/>
+						<Switch Id="1418083802" Name="HighTom3" ObjectPath="\Switches\Default Work Unit\HighTom\HighTom3"/>
+						<Switch Id="1418083805" Name="HighTom4" ObjectPath="\Switches\Default Work Unit\HighTom\HighTom4"/>
+						<Switch Id="1418083804" Name="HighTom5" ObjectPath="\Switches\Default Work Unit\HighTom\HighTom5"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="3607016552" Name="Snare" ObjectPath="\Switches\Default Work Unit\Snare">
+					<Switches>
+						<Switch Id="3673554825" Name="Snare1" ObjectPath="\Switches\Default Work Unit\Snare\Snare1"/>
+						<Switch Id="3673554826" Name="Snare2" ObjectPath="\Switches\Default Work Unit\Snare\Snare2"/>
+						<Switch Id="3673554827" Name="Snare3" ObjectPath="\Switches\Default Work Unit\Snare\Snare3"/>
+						<Switch Id="3673554828" Name="Snare4" ObjectPath="\Switches\Default Work Unit\Snare\Snare4"/>
+						<Switch Id="3673554829" Name="Snare5" ObjectPath="\Switches\Default Work Unit\Snare\Snare5"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="3737052859" Name="Clap" ObjectPath="\Switches\Default Work Unit\Clap">
+					<Switches>
+						<Switch Id="1636120656" Name="Clap1" ObjectPath="\Switches\Default Work Unit\Clap\Clap1"/>
+						<Switch Id="1636120659" Name="Clap2" ObjectPath="\Switches\Default Work Unit\Clap\Clap2"/>
+						<Switch Id="1636120658" Name="Clap3" ObjectPath="\Switches\Default Work Unit\Clap\Clap3"/>
+						<Switch Id="1636120661" Name="Clap4" ObjectPath="\Switches\Default Work Unit\Clap\Clap4"/>
+						<Switch Id="1636120660" Name="Clap5" ObjectPath="\Switches\Default Work Unit\Clap\Clap5"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="3877275895" Name="LowTom" ObjectPath="\Switches\Default Work Unit\LowTom">
+					<Switches>
+						<Switch Id="3318062308" Name="LowTom1" ObjectPath="\Switches\Default Work Unit\LowTom\LowTom1"/>
+						<Switch Id="3318062311" Name="LowTom2" ObjectPath="\Switches\Default Work Unit\LowTom\LowTom2"/>
+						<Switch Id="3318062310" Name="LowTom3" ObjectPath="\Switches\Default Work Unit\LowTom\LowTom3"/>
+						<Switch Id="3318062305" Name="LowTom4" ObjectPath="\Switches\Default Work Unit\LowTom\LowTom4"/>
+						<Switch Id="3318062304" Name="LowTom5" ObjectPath="\Switches\Default Work Unit\LowTom\LowTom5"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,89 @@
+Switch Group	ID	Name			Wwise Object Path	Notes
+	509081035	MidTom			\Default Work Unit\MidTom	
+	772593125	Cowbell			\Default Work Unit\Cowbell	
+	989654088	BkGnd_High			\Default Work Unit\BkGnd_High	
+	1196574546	BkGnd_Low			\Default Work Unit\BkGnd_Low	
+	1413521402	Hi_Hat			\Default Work Unit\Hi_Hat	
+	1700050066	BkGnd_Mid			\Default Work Unit\BkGnd_Mid	
+	2181839183	Kick			\Default Work Unit\Kick	
+	3434438675	HighTom			\Default Work Unit\HighTom	
+	3607016552	Snare			\Default Work Unit\Snare	
+	3737052859	Clap			\Default Work Unit\Clap	
+	3877275895	LowTom			\Default Work Unit\LowTom	
+
+Switch	ID	Name	Switch Group			Notes
+	2407001760	MidTom1	MidTom			
+	2407001762	MidTom3	MidTom			
+	2407001763	MidTom2	MidTom			
+	2407001764	MidTom5	MidTom			
+	2407001765	MidTom4	MidTom			
+	1664399178	Cowbell5	Cowbell			
+	1664399179	Cowbell4	Cowbell			
+	1664399180	Cowbell3	Cowbell			
+	1664399181	Cowbell2	Cowbell			
+	1664399182	Cowbell1	Cowbell			
+	606598505	BkGnd_High1	BkGnd_High			
+	606598506	BkGnd_High2	BkGnd_High			
+	606598507	BkGnd_High3	BkGnd_High			
+	606598508	BkGnd_High4	BkGnd_High			
+	606598509	BkGnd_High5	BkGnd_High			
+	2558936610	BkGnd_Low4	BkGnd_Low			
+	2558936611	BkGnd_Low5	BkGnd_Low			
+	2558936612	BkGnd_Low2	BkGnd_Low			
+	2558936613	BkGnd_Low3	BkGnd_Low			
+	2558936615	BkGnd_Low1	BkGnd_Low			
+	3897102192	HiHat1	Hi_Hat			
+	3897102194	HiHat3	Hi_Hat			
+	3897102195	HiHat2	Hi_Hat			
+	3897102196	HiHat5	Hi_Hat			
+	3897102197	HiHat4	Hi_Hat			
+	374882786	BkGnd_Mid4	BkGnd_Mid			
+	374882787	BkGnd_Mid5	BkGnd_Mid			
+	374882788	BkGnd_Mid2	BkGnd_Mid			
+	374882789	BkGnd_Mid3	BkGnd_Mid			
+	374882791	BkGnd_Mid1	BkGnd_Mid			
+	138295144	Kick5	Kick			
+	138295145	Kick4	Kick			
+	138295148	Kick1	Kick			
+	138295150	Kick3	Kick			
+	138295151	Kick2	Kick			
+	1418083800	HighTom1	HighTom			
+	1418083802	HighTom3	HighTom			
+	1418083803	HighTom2	HighTom			
+	1418083804	HighTom5	HighTom			
+	1418083805	HighTom4	HighTom			
+	3673554825	Snare1	Snare			
+	3673554826	Snare2	Snare			
+	3673554827	Snare3	Snare			
+	3673554828	Snare4	Snare			
+	3673554829	Snare5	Snare			
+	1636120656	Clap1	Clap			
+	1636120658	Clap3	Clap			
+	1636120659	Clap2	Clap			
+	1636120660	Clap5	Clap			
+	1636120661	Clap4	Clap			
+	3318062304	LowTom5	LowTom			
+	3318062305	LowTom4	LowTom			
+	3318062308	LowTom1	LowTom			
+	3318062310	LowTom3	LowTom			
+	3318062311	LowTom2	LowTom			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	467147773	BkGndSaturation			\Default Work Unit\BkGndSaturation	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	232237920	BackGrounds			\Default Work Unit\Master Audio Bus\BackGrounds	
+	1040548709	Melody			\Default Work Unit\Master Audio Bus\Melody	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3850444438	Percussion			\Default Work Unit\Master Audio Bus\Percussion	
+
+Effect plug-ins	ID	Name	Type				Notes
+	433904204	Wwise_Compressor_(Custom)	Wwise Compressor			
+	1120712199	MasterLPF	Wwise Parametric EQ			
+	1675424737	Extreme_Limiting_1	Wwise Peak Limiter			
+	3673681183	Large_Bright_Chamber1	Wwise Matrix Reverb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

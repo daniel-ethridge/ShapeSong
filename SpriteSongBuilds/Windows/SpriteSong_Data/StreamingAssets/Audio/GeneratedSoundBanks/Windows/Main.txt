@@ -1,0 +1,177 @@
+Event	ID	Name			Wwise Object Path	Notes
+	127615467	PlayLowBkGnd			\Music\Backgrounds\PlayLowBkGnd	
+	518504891	ClapStop			\Music\Percussion\ClapStop	
+	740187456	SnareStop			\Music\Percussion\SnareStop	
+	772593125	Cowbell			\Music\Percussion\Cowbell	
+	1232542626	Hi_HatStop			\Music\Percussion\Hi_HatStop	
+	1413521402	Hi_Hat			\Music\Percussion\Hi_Hat	
+	1675512312	Mid_Tom			\Music\Percussion\Mid_Tom	
+	1786192860	G4			\Music\Melody Notes\G4	
+	1802970447	F4			\Music\Melody Notes\F4	
+	1836525716	D5			\Music\Melody Notes\D5	
+	1836525717	D4			\Music\Melody Notes\D4	
+	1853303296	C4			\Music\Melody Notes\C4	
+	1853303297	C5			\Music\Melody Notes\C5	
+	1886858601	A3			\Music\Melody Notes\A3	
+	1886858606	A4			\Music\Melody Notes\A4	
+	1952917439	KickStop			\Music\Percussion\KickStop	
+	1997157647	PlayHighBkGnd			\Music\Backgrounds\PlayHighBkGnd	
+	2107740072	High_TomStop			\Music\Percussion\High_TomStop	
+	2181839183	Kick			\Music\Percussion\Kick	
+	2892674729	StopLowBkGnd			\Music\Backgrounds\StopLowBkGnd	
+	2988693636	Low_Tom			\Music\Percussion\Low_Tom	
+	3380058807	PlayMidBkGnd			\Music\Backgrounds\PlayMidBkGnd	
+	3440400492	Low_TomStop			\Music\Percussion\Low_TomStop	
+	3507497869	StopMidBkGnd			\Music\Backgrounds\StopMidBkGnd	
+	3542992004	StopNotes			\Music\Melody Notes\StopNotes	
+	3594704544	High_Tom			\Music\Percussion\High_Tom	
+	3607016552	Snare			\Music\Percussion\Snare	
+	3737052859	Clap			\Music\Percussion\Clap	
+	3754215428	StopTimer			\Default Work Unit\StopTimer	
+	3920142940	Timer			\Default Work Unit\Timer	
+	3948058160	Mid_TomStop			\Music\Percussion\Mid_TomStop	
+	4024814773	StopHighBkGnd			\Music\Backgrounds\StopHighBkGnd	
+	4284949629	CowbellStop			\Music\Percussion\CowbellStop	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	75764360	Mid_BkGnd_Param			\Default Work Unit\Background\Mid_BkGnd_Param	
+	78830142	Playback_Speed			\Default Work Unit\Playback_Speed	
+	151387591	CharacterTorso			\Default Work Unit\CharacterTorso	
+	342993035	CharXPos			\Default Work Unit\CharXPos	
+	609655080	mtVolume			\Default Work Unit\Percussion\Volume\mtVolume	
+	620741071	CBPosition			\Default Work Unit\Percussion\Postion\CBPosition	
+	762561156	Low_BkGnd_Param			\Default Work Unit\Background\Low_BkGnd_Param	
+	775711541	LowReverb			\Default Work Unit\Background\Reverb\LowReverb	
+	878619056	snrSwitch			\Default Work Unit\Percussion\Switches\snrSwitch	
+	1003861849	KDPosition			\Default Work Unit\Percussion\Postion\KDPosition	
+	1016379563	ltVolume			\Default Work Unit\Percussion\Volume\ltVolume	
+	1047568026	mtSwitch			\Default Work Unit\Percussion\Switches\mtSwitch	
+	1515143787	hhVolume			\Default Work Unit\Percussion\Volume\hhVolume	
+	1538253904	High_BkGnd_Param			\Default Work Unit\Background\High_BkGnd_Param	
+	1733953454	clpVolume			\Default Work Unit\Percussion\Volume\clpVolume	
+	1742003886	cbSwitch			\Default Work Unit\Percussion\Switches\cbSwitch	
+	1965045917	HighBright			\Default Work Unit\Background\brightness\HighBright	
+	2033904029	ltSwitch			\Default Work Unit\Percussion\Switches\ltSwitch	
+	2177393888	HTPosition			\Default Work Unit\Percussion\Postion\HTPosition	
+	2302862684	clpSwitch			\Default Work Unit\Percussion\Switches\clpSwitch	
+	2393634833	MidReverb			\Default Work Unit\Background\Reverb\MidReverb	
+	2610287790	kdVolume			\Default Work Unit\Percussion\Volume\kdVolume	
+	2643497324	cbVolume			\Default Work Unit\Percussion\Volume\cbVolume	
+	2788579711	htVolume			\Default Work Unit\Percussion\Volume\htVolume	
+	2840259689	HighReverb			\Default Work Unit\Background\Reverb\HighReverb	
+	2871355627	MTPosition			\Default Work Unit\Percussion\Postion\MTPosition	
+	3046941273	CLPPosition			\Default Work Unit\Percussion\Postion\CLPPosition	
+	3117805916	LTPosition			\Default Work Unit\Percussion\Postion\LTPosition	
+	3179197020	kdSwitch			\Default Work Unit\Percussion\Switches\kdSwitch	
+	3233319005	hhSwitch			\Default Work Unit\Percussion\Switches\hhSwitch	
+	3261019387	CharacterArms			\Default Work Unit\CharacterArms	
+	3364766416	CharacterHead			\Default Work Unit\CharacterHead	
+	3530131953	LowBright			\Default Work Unit\Background\brightness\LowBright	
+	3625313298	snrVolume			\Default Work Unit\Percussion\Volume\snrVolume	
+	3791830556	HHPosition			\Default Work Unit\Percussion\Postion\HHPosition	
+	3834167089	htSwitch			\Default Work Unit\Percussion\Switches\htSwitch	
+	3854265795	SNPosition			\Default Work Unit\Percussion\Postion\SNPosition	
+	3868248170	CharcterLegs			\Default Work Unit\CharcterLegs	
+	3930644517	MidBright			\Default Work Unit\Background\brightness\MidBright	
+
+Effect plug-ins	ID	Name	Type				Notes
+	30742750	SnareVolume	Wwise Gain			
+	92431321	Wwise_Delay_(Custom)	Wwise Delay			
+	103717065	LowTomPitchShift	Wwise Pitch Shifter			
+	237970723	HiHatReverb	Wwise Matrix Reverb			
+	265144105	KickDrumPitchShift	Wwise Pitch Shifter			
+	302054607	Wwise_Delay_(Custom)	Wwise Delay			
+	378633410	ClapVolume_(Custom)	Wwise Gain			
+	443449017	Wwise_Gain_(Custom)	Wwise Gain			
+	446646405	LowTomVolume	Wwise Gain			
+	650410825	Wwise_Delay_(Custom)	Wwise Delay			
+	657995653	MidTomPitchShift	Wwise Pitch Shifter			
+	781137103	Wwise_Gain_(Custom)	Wwise Gain			
+	852657767	Wwise_Gain_(Custom)	Wwise Gain			
+	991801453	Wwise_Gain_(Custom)	Wwise Gain			
+	1010376755	MidTomReverb	Wwise Matrix Reverb			
+	1323943085	KickVolume	Wwise Gain			
+	1395664931	CowbellPitchShift	Wwise Pitch Shifter			
+	1535640407	LowTomReverb	Wwise Matrix Reverb			
+	1583325653	HiHatPitchShift	Wwise Pitch Shifter			
+	1606454898	HiTomPitchShift	Wwise Pitch Shifter			
+	1675735417	MidTomVolume	Wwise Gain			
+	2008563273	HiHatVolume	Wwise Gain			
+	2065486211	ClapReverb	Wwise Matrix Reverb			
+	2355528757	CowbellReverb	Wwise Matrix Reverb			
+	2827425207	KickDrumReverb	Wwise Matrix Reverb			
+	3348709854	New_Wwise_Tremolo	Wwise Tremolo			
+	3496294028	HiTomReverb	Wwise Matrix Reverb			
+	3793386634	SnarePitchShift	Wwise Pitch Shifter			
+	3975671204	SnareReverb	Wwise Matrix Reverb			
+	4173013544	CowbellGain	Wwise Gain			
+	4248984369	HighTomVolume	Wwise Gain			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	349755182	Wwise Synth One	Wwise Synth One		\Actor-Mixer Hierarchy\Music\Char Synth\Wwise Synth One	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	17423070	HiHat	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Hi Hat 3_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\HiHat\HiHat\HiHat		282308
+	35983862	Cowbell	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Cowbell 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Cowbell\Cowbell\Cowbell		282308
+	54413110	BkGnd High	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - High BkGnd 3_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndHigh\BkGnd High\BkGnd High		564548
+	59480120	G4	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\G4_82538C21.wmid		\Interactive Music Hierarchy\Music\Melody Notes\G4\G4\G4		19
+	109544362	Kick	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc -  Kick 5_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Kick\Kick\Kick		282308
+	163002421	HiHat	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Hi Hat 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\HiHat\HiHat\HiHat		282308
+	165517860	High Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - High Tom 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\High Tom\High Tom\High Tom		282308
+	165872222	Mid Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Mid Tom 2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Mid Tom\Mid Tom\Mid Tom		282308
+	179193399	Clap	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Clap 3_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Clap\Clap\Clap		282308
+	181616521	High Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - High Tom 2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\High Tom\High Tom\High Tom		282308
+	182842013	BkGnd Mid	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - Mid BkGnd 2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndMid\BkGnd Mid\BkGnd Mid		564548
+	193518813	Clap	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Clap 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Clap\Clap\Clap		282308
+	202538348	C5	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\C5_82538C21.wmid		\Interactive Music Hierarchy\Music\Melody Notes\C5\C5\C5		19
+	205155729	D4	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\D4_82538C21.wmid		\Interactive Music Hierarchy\Music\Melody Notes\D4\D4\D4		19
+	206424851	Snare	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Snare 5_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Snare\Snare\Snare		282308
+	209970234	BkGnd Mid	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - Mid BkGnd 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndMid\BkGnd Mid\BkGnd Mid		564548
+	251653243	Cowbell	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Cowbell 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Cowbell\Cowbell\Cowbell		282308
+	275707807	Mid Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Mid Tom 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Mid Tom\Mid Tom\Mid Tom		282308
+	285900122	BkGnd Low	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - Low BkGnd 5_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndLow\BkGnd Low\BkGnd Low		564548
+	311793028	Kick	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc -  Kick 2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Kick\Kick\Kick		282308
+	312520748	High Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - High Tom 5_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\High Tom\High Tom\High Tom		282308
+	332300729	BkGnd High	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - High BkGnd 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndHigh\BkGnd High\BkGnd High		564548
+	335227173	Low Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Low Tom 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Low Tom\Low Tom\Low Tom		282308
+	345666258	Mid Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Mid Tom 5_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Mid Tom\Mid Tom\Mid Tom		282308
+	377926757	High Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - High Tom 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\High Tom\High Tom\High Tom		282308
+	379222637	BkGnd Low	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - Low BkGnd 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndLow\BkGnd Low\BkGnd Low		564548
+	431528250	Low Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Low Tom 3_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Low Tom\Low Tom\Low Tom		282308
+	467886773	Clap	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Clap 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Clap\Clap\Clap		282308
+	484166293	Clap	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Clap 5_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Clap\Clap\Clap		282308
+	495523749	Cowbell	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Cowbell 2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Cowbell\Cowbell\Cowbell		282308
+	495937307	Kick	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc -  Kick 3_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Kick\Kick\Kick		282308
+	509262492	F4	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\F4_82538C21.wmid		\Interactive Music Hierarchy\Music\Melody Notes\F4\F4\F4		19
+	518835948	Kick	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc -  Kick 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Kick\Kick\Kick		282308
+	536389463	BkGnd High	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - High BkGnd 2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndHigh\BkGnd High\BkGnd High		564548
+	608759769	BkGnd Low	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - Low BkGnd 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndLow\BkGnd Low\BkGnd Low		564548
+	638467415	Kick	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Kick 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Kick\Kick\Kick		282308
+	648813391	BkGnd High	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - High BkGnd 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndHigh\BkGnd High\BkGnd High		564548
+	668847312	Snare	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Snare 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Snare\Snare\Snare		282308
+	690878531	BkGnd Low	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - Low BkGnd 2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndLow\BkGnd Low\BkGnd Low		564548
+	695436543	BkGnd Mid	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - Mid BkGnd 5_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndMid\BkGnd Mid\BkGnd Mid		564548
+	699827050	D5	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\D5_82538C21.wmid		\Interactive Music Hierarchy\Music\Melody Notes\D5\D5\D5		19
+	742909109	Mid Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Mid Tom 3_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Mid Tom\Mid Tom\Mid Tom		282308
+	763320801	BkGnd Mid	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - Mid BkGnd 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndMid\BkGnd Mid\BkGnd Mid		564548
+	765454084	Clap	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Clap 2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Clap\Clap\Clap		282308
+	780855785	A3	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\A3_82538C21.wmid		\Interactive Music Hierarchy\Music\Melody Notes\A3\A3\A3		19
+	802114002	HiHat	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Hi Hat 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\HiHat\HiHat\HiHat		282308
+	837973755	Mid Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Mid Tom 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Mid Tom\Mid Tom\Mid Tom		282308
+	852132535	Snare	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Snare 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Snare\Snare\Snare		282308
+	854644086	High Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - High Tom 3_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\High Tom\High Tom\High Tom		282308
+	863801964	Cowbell	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Cowbell 5_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Cowbell\Cowbell\Cowbell		282308
+	870134129	BkGnd Low	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - Low BkGnd 3_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndLow\BkGnd Low\BkGnd Low		564548
+	871338514	Snare	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Snare 3_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Snare\Snare\Snare		282308
+	897229518	HiHat	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Hi Hat 5_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\HiHat\HiHat\HiHat		282308
+	924499218	BkGnd Mid	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - Mid BkGnd 3_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndMid\BkGnd Mid\BkGnd Mid		564548
+	961614681	Low Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Low Tom 2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Low Tom\Low Tom\Low Tom		282308
+	964655956	Low Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Low Tom 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Low Tom\Low Tom\Low Tom		282308
+	982620226	A4	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\A4_82538C21.wmid		\Interactive Music Hierarchy\Music\Melody Notes\A4\A4\A4		19
+	1008657816	BkGnd High	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\BkGnd - High BkGnd 5_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Background\BkGndHigh\BkGnd High\BkGnd High		564548
+	1010812043	Snare	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Snare 2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Snare\Snare\Snare		282308
+	1039759401	Low Tom	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Low Tom 5_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Low Tom\Low Tom\Low Tom		282308
+	1047205904	HiHat	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Hi Hat 2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\HiHat\HiHat\HiHat		282308
+	1054718200	Cowbell	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\Perc - Cowbell 3_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Percussion\Cowbell\Cowbell\Cowbell		282308
+	1068339980	C4	C:\Users\ethri\Documents\Professional Life and School\Georgia Tech\MUSI 7100\Study\ResearchApplication\7100Unity_WwiseProject\.cache\Windows\SFX\C4_82538C21.wmid		\Interactive Music Hierarchy\Music\Melody Notes\C4\C4\C4		19
+
